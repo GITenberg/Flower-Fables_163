@@ -1,0 +1,39 @@
+_repo: Flower-Fables_163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, L. M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1994-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flowers -- Juvenile fiction'
+- !lcsh 'Flowers -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Short stories'
+- !lcsh 'Fairy tales -- United States'
+- !lcsh 'Fairies -- Juvenile poetry'
+- !lcsh 'Children''s stories, American'
+- GITenberg
+tableOfContents: The frost king, or, The power of love -- Eva's visit to fairy-land
+  -- The flower's lesson -- Lily-Bell and Thistledown -- Little Bud -- Clover-Blossom
+  -- Little Annie's dream, or, The fairy flower -- Ripple, the water-spirit -- Fairy
+  song.
+title: Flower Fables
+url: http://www.gutenberg.org/ebooks/163
